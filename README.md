@@ -141,6 +141,4 @@ jupyter notebook
 ## 👩‍💻 Author
 
 **Dalila Tazkia**
-Mahasiswa Semester 4
 Project UAS Python — Web Scraping
->>>>>>> 7f434397202fdad886a1e9b71b8ca300bc0eaa7e
