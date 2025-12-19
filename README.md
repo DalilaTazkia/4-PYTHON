@@ -107,23 +107,23 @@ Beberapa visualisasi yang ditampilkan dalam notebook antara lain:
 
 Visualisasi ini menunjukkan distribusi buku berdasarkan tahun rilis.
 
-![Visualisasi Tahun Buku](assets/jumlah_buku_per_tahun.png)
+![Visualisasi Tahun Buku](assets/DistribusiTahun.png)
 
 ---
 
 ### 🔹 2. Penulis dengan Jumlah Buku Terbanyak
 
-Grafik ini menampilkan penulis yang paling sering muncul dalam daftar 100 buku terbaik.
+Grafik ini menampilkan Top 10 penulis yang paling sering muncul dalam daftar 100 buku terbaik.
 
-![Visualisasi Penulis](assets/penulis_terbanyak.png)
+![Visualisasi Penulis](assets/Top10Penulis.png)
 
 ---
 
-### 🔹 3. Distribusi Data Buku
+### 🔹 3. Distribusi Genre Buku
 
-Visualisasi ini membantu memahami persebaran data secara keseluruhan.
+Visualisasi ini membantu melihat genre apa saja yang paling sering muncul.
 
-![Distribusi Buku](assets/distribusi_buku.png)
+![Distribusi Buku](assets/DistribusiGenre.png)
 
 ---
 
