@@ -101,29 +101,7 @@ Dataset ini berisi daftar **100 buku terbaik versi The New York Times** yang tel
 
 ## 📈 Visualisasi Data
 
-Beberapa visualisasi yang ditampilkan dalam notebook antara lain:
-
-### 🔹 1. Jumlah Buku Berdasarkan Tahun
-
-Visualisasi ini menunjukkan distribusi buku berdasarkan tahun rilis.
-
-![Visualisasi Tahun Buku](assets/DistribusiTahun.png)
-
----
-
-### 🔹 2. Penulis dengan Jumlah Buku Terbanyak
-
-Grafik ini menampilkan Top 10 penulis yang paling sering muncul dalam daftar 100 buku terbaik.
-
-![Visualisasi Penulis](assets/Top10Penulis.png)
-
----
-
-### 🔹 3. Distribusi Genre Buku
-
-Visualisasi ini membantu melihat genre apa saja yang paling sering muncul.
-
-![Distribusi Buku](assets/DistribusiGenre.png)
+Hasil visualisasi data menunjukkan bahwa mayoritas buku dalam daftar 100 Best Books versi The New York Times diterbitkan pada era modern (2000–2022) dan didominasi oleh genre Fiction, diikuti oleh Non-fiction. Buku-buku tersebut umumnya memiliki panjang 250–500 halaman, dengan beberapa karya non-fiksi dan biografi yang cenderung lebih panjang. Tidak ditemukan hubungan langsung antara tahun publikasi dan jumlah halaman, namun genre terbukti memengaruhi panjang buku. Daftar ini juga menampilkan keragaman penulis dan penerbit, tanpa dominasi ekstrem dari satu pihak, sehingga mencerminkan keberagaman karya literatur berkualitas.
 
 ---
 
