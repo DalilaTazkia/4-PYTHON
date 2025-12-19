@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# 4-PYTHON
-UAS SCRAPPING PYTHON SEMESTER 4
-=======
 # 📊 UAS Web Scraping Python — Semester 4
 
 ## 📌 Deskripsi Proyek
